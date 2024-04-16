@@ -1,0 +1,582 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\controllers\\vaccinationcenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\controllers\\vaccinationcenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.domain\\domain models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\domain models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\views\\vaccinationcenters\\addvaccinatedpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\addvaccinatedpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.domain\\domain models\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\domain models\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\views\\vaccinationcenters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\views\\vaccinationcenters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\views\\vaccinationcenters\\nomorecapacity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\nomorecapacity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.domain\\domain models\\vaccinationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\domain models\\vaccinationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.domain\\dto\\vaccinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\dto\\vaccinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.service\\interface\\ivaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\interface\\ivaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240416210407_oks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IntegratedSystems.Repository\\Migrations\\20240416210407_oks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.service\\implementation\\vaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\implementation\\vaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.service\\implementation\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\implementation\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.domain\\identity models\\integratedsystemsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\identity models\\integratedsystemsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|d:\\finki\\6 semestar\\is\\zad ok kol1\\integratedsystemsexam\\integratedsystems.repository\\migrations\\20240415185642_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\migrations\\20240415185642_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\VaccinatePatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IntegratedSystems.Web\\Views\\Patients\\VaccinatePatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VaccinationCentersController.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAcwK0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:56:50.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T22:49:22.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAowFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T21:37:47.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Create.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Create.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T22:16:26.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vaccine.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:40:05.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:43:38.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T20:40:49.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T21:17:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NoMoreCapacity.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\NoMoreCapacity.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\NoMoreCapacity.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\NoMoreCapacity.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\NoMoreCapacity.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T21:28:42.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddVaccinatedPatient.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\AddVaccinatedPatient.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\AddVaccinatedPatient.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\AddVaccinatedPatient.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\AddVaccinatedPatient.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T21:36:22.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VaccinationDTO.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Domain\\DTO\\VaccinationDTO.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\DTO\\VaccinationDTO.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Domain\\DTO\\VaccinationDTO.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\DTO\\VaccinationDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:35:40.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VaccinationCenter.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:41:40.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:50:31.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\ApplicationDbContextFactory.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:43:47.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Program.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Program.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Program.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:07:39.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IVaccinationCenterService.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:21:08.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240416210407_oks.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240416210407_oks.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Migrations\\20240416210407_oks.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240416210407_oks.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Migrations\\20240416210407_oks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:04:07.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VaccinationCenterService.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\VaccinationCenterService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Implementation\\VaccinationCenterService.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\VaccinationCenterService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Implementation\\VaccinationCenterService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:21:26.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:38:55.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAewDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:38:56.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VaccinatePatient.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\VaccinatePatient.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Patients\\VaccinatePatient.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\VaccinatePatient.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Patients\\VaccinatePatient.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T20:44:42.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T20:00:29.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:05:42.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:17:35.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Patients\\Create.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Patients\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T20:42:07.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\PatientService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Implementation\\PatientService.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\PatientService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Implementation\\PatientService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wCwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:17:57.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240415185642_initial.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240415185642_initial.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Migrations\\20240415185642_initial.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240415185642_initial.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Migrations\\20240415185642_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:56:42.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.__EFMigrationsHistory [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "dbo.__EFMigrationsHistory [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-08T16:05:22.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\appsettings.json",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\appsettings.json",
+              "RelativeToolTip": "IntegratedSystems.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T16:04:04.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240408160325_UpdateVaccineTable.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:03:25.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240408160547_UpdateVaccineTable.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:05:47.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\appsettings.Development.json",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\appsettings.Development.json",
+              "RelativeToolTip": "IntegratedSystems.Web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T16:16:05.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IntegratedSystemsUser.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:38:38.756Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
