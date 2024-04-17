@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PzEg08zpYMoXwHK2YGfilU3S6/GOBbXiaKbLguQJMLmUnbp9nbSrTJQZZViu4njVXnCuSJMpNvze4/43mp0fCg==",
+  "dgSpecHash": "4J/6MhL9us9eeyQdC1OPQgvIXhkiYJXyKMQERUBA7O+h6Ci7AR96GvxlHalnr2xMY0dAMI4RKDzB+FWx4RXYWg==",
   "success": true,
-  "projectFilePath": "D:\\FINKI\\6 Semestar\\IS\\Zad ok Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\IntegratedSystems.Web.csproj",
+  "projectFilePath": "D:\\FINKI\\6 Semestar\\IS\\Zad od Kol1\\IntegratedSystemsExam\\IntegratedSystems.Web\\IntegratedSystems.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

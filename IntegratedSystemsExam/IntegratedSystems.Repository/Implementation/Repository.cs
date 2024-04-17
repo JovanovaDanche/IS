@@ -40,15 +40,29 @@ namespace IntegratedSystems.Repository.Implementation
             if (typeof(T).IsAssignableFrom(typeof(Vaccine)))
             {
                 return entities
-                    .Include("PatientFor")
-                    .Include("Center")
-                    .First(s => s.Id == id);
+                .Include("PatientFor")
+                .Include("Center")
+                .First(s => s.Id == id);
+            }
+            else if (typeof(T).IsAssignableFrom(typeof(VaccinationCenter)))
+            {
+                return entities
+                .Include("Vaccines")
+                .Include("Vaccines.PatientFor")
+                .First(s => s.Id == id);
+            }
+            else if (typeof(T).IsAssignableFrom(typeof(Patient)))
+            {
+                return entities
+                .Include("VaccinationSchedule")
+                .Include("VaccinationSchedule.Center")
+                .First(s => s.Id == id);
             }
             else
             {
                 return entities.First(s => s.Id == id);
             }
-            
+
         }
         public T Insert(T entity)
         {
