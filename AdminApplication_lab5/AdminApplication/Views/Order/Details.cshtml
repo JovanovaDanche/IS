@@ -1,0 +1,23 @@
+﻿@model AdminApplication.Models.Order
+
+<div class="container">
+    <div>
+        <a class="btn btn=success">Order for @Model.Owner.FirstName</a>
+    </div>
+
+    @for(int i=0;i<Model.ProductInOrders.Count(); i++)
+    {
+        @* var item = Model.ProductInOrders.ElementAt(i).OrderedProduct; *@
+        <div class="col-3 m-4">
+
+            <div class="card" style="width: 18rem; height: 35rem">
+@*                 <img class="card-img-top" src="@item.ProductImage" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@item.OrderedProduct.ProductName</h5>
+                    <p class="card-text">@item.ProductDescription</p> *@
+                    @* <h6>Price: @item.Price</h6> *@
+
+            </div>
+        </div>
+    }
+</div>

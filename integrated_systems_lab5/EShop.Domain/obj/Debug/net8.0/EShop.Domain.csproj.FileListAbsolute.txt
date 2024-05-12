@@ -1,0 +1,36 @@
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll

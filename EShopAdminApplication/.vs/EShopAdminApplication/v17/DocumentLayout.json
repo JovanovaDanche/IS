@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\",
+  "WorkspaceRootPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\eshopadminapplication\\eshopadminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\eshopadminapplication\\eshopadminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\eshopadminapplication\\eshopadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\eshopadminapplication\\eshopadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\eshopadminapplication\\eshopadminapplication\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\eshopadminapplication\\eshopadminapplication\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\eshopadminapplication\\eshopadminapplication\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\eshopadminapplication\\eshopadminapplication\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\eshopadminapplication\\eshopadminapplication\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\eshopadminapplication\\eshopadminapplication\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\eshopadminapplication\\eshopadminapplication\\models\\ticketinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\eshopadminapplication\\eshopadminapplication\\models\\ticketinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\ticketinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\eshopadminapplication\\eshopadminapplication\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\eshopadminapplication\\eshopadminapplication\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\eshopadminapplication\\eshopadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\eshopadminapplication\\eshopadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\eshopadminapplication\\eshopadminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\eshopadminapplication\\eshopadminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\eshopadminapplication\\eshopadminapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\eshopadminapplication\\eshopadminapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F84732F-0FC4-4948-9B24-8D7BE596E649}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Details.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Details.cshtml",
               "RelativeDocumentMoniker": "EShopAdminApplication\\Views\\Order\\Details.cshtml",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Details.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Details.cshtml",
               "RelativeToolTip": "EShopAdminApplication\\Views\\Order\\Details.cshtml",
               "ViewState": "AQIAAAQAAAAAAAAAAAAowBYAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -85,87 +85,81 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "EShopApplicationUser.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\EShopApplicationUser.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\EShopApplicationUser.cs",
               "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\EShopApplicationUser.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\EShopApplicationUser.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\EShopApplicationUser.cs",
               "RelativeToolTip": "EShopAdminApplication\\Models\\EShopApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T21:20:39.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T21:20:39.067Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TicketInOrder.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInOrder.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInOrder.cs",
               "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\TicketInOrder.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInOrder.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInOrder.cs",
               "RelativeToolTip": "EShopAdminApplication\\Models\\TicketInOrder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T21:55:17.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T21:55:17.69Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Ticket.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\Ticket.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\Ticket.cs",
               "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\Ticket.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\Ticket.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\Ticket.cs",
               "RelativeToolTip": "EShopAdminApplication\\Models\\Ticket.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T21:46:59.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T21:46:59.559Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "TicketInShoppingCart.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInShoppingCart.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInShoppingCart.cs",
               "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\TicketInShoppingCart.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInShoppingCart.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\TicketInShoppingCart.cs",
               "RelativeToolTip": "EShopAdminApplication\\Models\\TicketInShoppingCart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T22:29:26.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T22:29:26.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\Movie.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\Movie.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\Movie.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\Movie.cs",
               "RelativeToolTip": "EShopAdminApplication\\Models\\Movie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T21:45:54.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T21:45:54.375Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "EShopAdminApplication\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\OrderController.cs",
               "RelativeToolTip": "EShopAdminApplication\\Controllers\\OrderController.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAjwCAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T21:21:19.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T21:21:19.614Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EShopAdminApplication\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EShopAdminApplication\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,27 +169,25 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\Order.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\Order.cs",
               "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\Order.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Models\\Order.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Models\\Order.cs",
               "RelativeToolTip": "EShopAdminApplication\\Models\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T21:21:26.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T21:21:26.935Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Index.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "EShopAdminApplication\\Views\\Order\\Index.cshtml",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Index.cshtml",
               "RelativeToolTip": "EShopAdminApplication\\Views\\Order\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T21:28:30.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T21:28:30.068Z"
             }
           ]
         },

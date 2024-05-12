@@ -1,0 +1,45 @@
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Repository.deps.json
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Repository.dll
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Repository.pdb
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfo.cs
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.CopyComplete
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.dll
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\obj\Debug\net8.0\refint\EShop.Repository.dll
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.pdb
+C:\Users\User\Downloads\Lab41\integrated_systems\EShop.Repository\obj\Debug\net8.0\ref\EShop.Repository.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Repository.deps.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Repository.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Repository.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Domain.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Domain.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.AssemblyReference.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfoInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfo.cs
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.CoreCompileInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Re.5AE75352.Up2Date
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\refint\EShop.Repository.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\ref\EShop.Repository.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\bin\Debug\net8.0\EShop.Repository.deps.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\bin\Debug\net8.0\EShop.Repository.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\bin\Debug\net8.0\EShop.Repository.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\bin\Debug\net8.0\EShop.Domain.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\bin\Debug\net8.0\EShop.Domain.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.AssemblyReference.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\obj\Debug\net8.0\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfoInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfo.cs
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.CoreCompileInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\obj\Debug\net8.0\EShop.Re.5AE75352.Up2Date
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\obj\Debug\net8.0\EShop.Repository.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\obj\Debug\net8.0\refint\EShop.Repository.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\obj\Debug\net8.0\EShop.Repository.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\integrated_systems_lab5\EShop.Repository\obj\Debug\net8.0\ref\EShop.Repository.dll

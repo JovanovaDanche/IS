@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JV8ZfjJynQzEEG1XB3P+53qUG38wKJdQf4w3ZbzCEWm3pzRK5PwHm9Bi89igR8CCxflWaVOqzXnpIns2n7XXXQ==",
+  "dgSpecHash": "UOTZl/DVAgIQAQhHUhKU27+2GIsyc6BrJWoTlRSHRQUpPFmWriJIMpjavpb8Z3vCjMzVdDFnIvBcmm5Sp37u2g==",
   "success": true,
-  "projectFilePath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\EShopAdminApplication\\EShopAdminApplication\\EShopAdminApplication.csproj",
+  "projectFilePath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\EShopAdminApplication\\EShopAdminApplication\\EShopAdminApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",

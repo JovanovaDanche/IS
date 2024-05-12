@@ -1,0 +1,149 @@
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.staticwebassets.runtime.json
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.exe
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.deps.json
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.runtimeconfig.json
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.dll
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.pdb
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.AssemblyInfo.cs
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.AdminApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.AdminApplication.props
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AdminApplication.props
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AdminApplication.props
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\scopedcss\bundle\AdminApplication.styles.css
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\scopedcss\projectbundle\AdminApplication.bundle.scp.css
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.csproj.CopyComplete
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.dll
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\refint\AdminApplication.dll
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.pdb
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.genruntimeconfig.cache
+C:\Users\User\Downloads\Lab41\AdminApplication\AdminApplication\obj\Debug\net8.0\ref\AdminApplication.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\appsettings.Development.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\appsettings.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.staticwebassets.runtime.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.exe
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.deps.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.runtimeconfig.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\AdminApplication.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.csproj.AssemblyReference.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.AssemblyInfoInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.AssemblyInfo.cs
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.csproj.CoreCompileInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.RazorAssemblyInfo.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.RazorAssemblyInfo.cs
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets.build.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets.development.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.AdminApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.AdminApplication.props
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AdminApplication.props
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AdminApplication.props
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\scopedcss\bundle\AdminApplication.styles.css
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\scopedcss\projectbundle\AdminApplication.bundle.scp.css
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApp.0E8533CE.Up2Date
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\refint\AdminApplication.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\AdminApplication.genruntimeconfig.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\obj\Debug\net8.0\ref\AdminApplication.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\ClosedXML.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\GemBox.Document.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\Irony.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\SkiaSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\XLParser.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication\AdminApplication\bin\Debug\net8.0\ExcelDataReader.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\appsettings.Development.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\appsettings.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\AdminApplication.staticwebassets.runtime.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\AdminApplication.exe
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\AdminApplication.deps.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\AdminApplication.runtimeconfig.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\AdminApplication.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\AdminApplication.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\ClosedXML.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\ExcelDataReader.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\GemBox.Document.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\Irony.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\SkiaSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\XLParser.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApplication.csproj.AssemblyReference.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApplication.AssemblyInfoInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApplication.AssemblyInfo.cs
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApplication.csproj.CoreCompileInputs.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApplication.RazorAssemblyInfo.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApplication.RazorAssemblyInfo.cs
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\staticwebassets.build.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\staticwebassets.development.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.AdminApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.AdminApplication.props
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AdminApplication.props
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AdminApplication.props
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\scopedcss\bundle\AdminApplication.styles.css
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\scopedcss\projectbundle\AdminApplication.bundle.scp.css
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApp.0E8533CE.Up2Date
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApplication.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\refint\AdminApplication.dll
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApplication.pdb
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\AdminApplication.genruntimeconfig.cache
+D:\FINKI\6 Semestar\IS\Lab\Lab5\Lab5A\AdminApplication_lab5\AdminApplication\obj\Debug\net8.0\ref\AdminApplication.dll
