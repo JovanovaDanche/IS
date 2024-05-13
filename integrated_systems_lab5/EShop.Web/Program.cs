@@ -10,6 +10,7 @@ using Movie_App.Service.Implementation;
 using Stripe;
 using System.Text.Json.Serialization;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -32,6 +33,10 @@ builder.Services.AddTransient<IConcertService, ConcertService>();
 builder.Services.AddTransient<IOrderService, OrderService>();
 builder.Services.AddControllers().AddJsonOptions(x =>
    x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
+
+builder.Services.AddControllersWithViews().AddNewtonsoftJson(options =>
+    options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+
 
 var app = builder.Build();
 

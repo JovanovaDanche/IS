@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Web\\EShop.Web.csproj": {}
+    "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Web\\EShop.Web.csproj": {}
   },
   "projects": {
-    "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj": {
+    "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj",
+        "projectUniqueName": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj",
         "projectName": "EShop.Domain",
-        "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj",
+        "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\obj\\",
+        "outputPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj": {
+    "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj",
+        "projectUniqueName": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj",
         "projectName": "EShop.Repository",
-        "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj",
+        "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\obj\\",
+        "outputPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,8 +94,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj": {
-                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj"
+              "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj": {
+                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\EShop.Service.csproj": {
+    "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\EShop.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\EShop.Service.csproj",
+        "projectUniqueName": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\EShop.Service.csproj",
         "projectName": "EShop.Service",
-        "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\EShop.Service.csproj",
+        "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\EShop.Service.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\obj\\",
+        "outputPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,11 +168,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj": {
-                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj"
+              "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj": {
+                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj"
               },
-              "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj": {
-                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj"
+              "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj": {
+                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj"
               }
             }
           }
@@ -221,14 +221,14 @@
         }
       }
     },
-    "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Web\\EShop.Web.csproj": {
+    "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Web\\EShop.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Web\\EShop.Web.csproj",
+        "projectUniqueName": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Web\\EShop.Web.csproj",
         "projectName": "EShop.Web",
-        "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Web\\EShop.Web.csproj",
+        "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Web\\EShop.Web.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Web\\obj\\",
+        "outputPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -245,14 +245,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj": {
-                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj"
+              "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj": {
+                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\EShop.Domain.csproj"
               },
-              "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj": {
-                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj"
+              "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj": {
+                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\EShop.Repository.csproj"
               },
-              "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\EShop.Service.csproj": {
-                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\EShop.Service.csproj"
+              "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\EShop.Service.csproj": {
+                "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\EShop.Service.csproj"
               }
             }
           }
@@ -283,6 +283,10 @@
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",

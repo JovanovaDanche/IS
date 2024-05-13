@@ -37,9 +37,9 @@
                         <tr>
                             <th scope="row">@(i + 1)</th>
                             <td>@item.Owner.FirstName</td>
-                            <td>@item.ProductInOrders.Count</td>
+                            <td>@item.ProductInOrders.Count()</td>
                             <td><a asp-action="Details" asp-route-Id="@item.Id" class="btn btn-danger">Details</a></td>
-
+                            <td><a asp-action="CreateInvoice" asp-route-Id="@item.Id" class="btn btn-danger">Create Invoice</a></td>
                         </tr>
 
                     }

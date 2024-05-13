@@ -5,18 +5,17 @@
         <a class="btn btn=success">Order for @Model.Owner.FirstName</a>
     </div>
 
-    @for(int i=0;i<Model.ProductInOrders.Count(); i++)
+    @for (int i = 0; i < Model.ProductInOrders.Count(); i++)
     {
-        @* var item = Model.ProductInOrders.ElementAt(i).OrderedProduct; *@
+        var item = Model.ProductInOrders.ElementAt(i).OrderedProduct;
         <div class="col-3 m-4">
-
             <div class="card" style="width: 18rem; height: 35rem">
-@*                 <img class="card-img-top" src="@item.ProductImage" alt="Card image cap">
+                <img class="card-img-top" src="@item.Concert.ConcertImage" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">@item.OrderedProduct.ProductName</h5>
-                    <p class="card-text">@item.ProductDescription</p> *@
-                    @* <h6>Price: @item.Price</h6> *@
-
+                    <h5 class="card-title">@item.Concert.ConcertName</h5>
+                    <p class="card-text">@item.Concert.ConcertDescription</p>
+                    <h6>Price: @item.Price</h6> 
+                </div>
             </div>
         </div>
     }

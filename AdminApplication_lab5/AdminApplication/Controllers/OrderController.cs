@@ -81,5 +81,39 @@ namespace AdminApplication.Controllers
             }
 
         }
+        //za da raboti vakva akcija simnuvame paket GemBox.Document
+        public IActionResult CreateInvoice(string id)
+        {
+            HttpClient client = new HttpClient();
+            string URL = "http://localhost:5054/api/Admin/GetDetailsForOrder";
+            var model = new
+            {
+                Id = id
+            };
+
+            HttpContent content = new StringContent(JsonConvert.SerializeObject(model), Encoding.UTF8, "application/json");
+
+            HttpResponseMessage response = client.PostAsync(URL, content).Result;
+            var data = response.Content.ReadAsAsync<Order>().Result;
+
+            var templatePath = Path.Combine(Directory.GetCurrentDirectory(), "Invoice.docx");
+            var document = DocumentModel.Load(templatePath);
+            document.Content.Replace("{{OrderNumber}}", data.Id.ToString());
+            document.Content.Replace("{{UserName}}", data.Owner.FirstName);
+            StringBuilder sb = new StringBuilder();
+            var total = 0.0;
+            foreach (var item in data.ProductInOrders)
+            {
+                sb.Append("Product " + item.OrderedProduct.Concert.ConcertName + " with quantity " + item.Quantity + " with price " + item.OrderedProduct.Price + "$");
+                total += (item.Quantity * item.OrderedProduct.Price);
+            }
+            document.Content.Replace("{{ProductList}}", sb.ToString());
+            document.Content.Replace("{{TotalPrice}}", total.ToString() + "$");
+
+            var stream = new MemoryStream();
+            document.Save(stream, new PdfSaveOptions());
+            return File(stream.ToArray(), new PdfSaveOptions().ContentType, "ExportedInvoice.pdf");
+
+        }
     }
 }

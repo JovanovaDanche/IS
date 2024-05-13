@@ -1,29 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\",
+  "WorkspaceRootPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\adminapplication_lab5\\adminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\adminapplication_lab5\\adminapplication\\views\\concert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\views\\concert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\adminapplication_lab5\\adminapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\adminapplication_lab5\\adminapplication\\controllers\\concertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\controllers\\concertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\adminapplication_lab5\\adminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\adminapplication_lab5\\adminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\adminapplication_lab5\\adminapplication\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\adminapplication_lab5\\adminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\adminapplication_lab5\\adminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\adminapplication_lab5\\adminapplication\\views\\concert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\views\\concert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\adminapplication_lab5\\adminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\adminapplication_lab5\\adminapplication\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\adminapplication_lab5\\adminapplication\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\adminapplication_lab5\\adminapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\adminapplication_lab5\\adminapplication\\controllers\\concertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\controllers\\concertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\adminapplication_lab5\\adminapplication\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61719F0B-DE72-4D02-B986-3B0891BEE768}|AdminApplication\\AdminApplication.csproj|solutionrelative:adminapplication\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,76 +70,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Views\\Order\\Index.cshtml",
-              "RelativeDocumentMoniker": "AdminApplication\\Views\\Order\\Index.cshtml",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Views\\Order\\Index.cshtml",
-              "RelativeToolTip": "AdminApplication\\Views\\Order\\Index.cshtml",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "AdminApplication\\Models\\Order.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Models\\Order.cs",
+              "RelativeToolTip": "AdminApplication\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:01:55.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "AdminApplication\\Models\\Ticket.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Models\\Ticket.cs",
+              "RelativeToolTip": "AdminApplication\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:59:12.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketInOrder.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Models\\TicketInOrder.cs",
+              "RelativeDocumentMoniker": "AdminApplication\\Models\\TicketInOrder.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Models\\TicketInOrder.cs",
+              "RelativeToolTip": "AdminApplication\\Models\\TicketInOrder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:59:04.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "AdminApplication\\Views\\Order\\Details.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "AdminApplication\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T19:52:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminApplication\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "AdminApplication\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAACEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-12T21:30:57.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AdminApplication\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AdminApplication\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAACFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB8AAACFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T21:01:19.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Views\\Concert\\Index.cshtml",
-              "RelativeDocumentMoniker": "AdminApplication\\Views\\Concert\\Index.cshtml",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Views\\Concert\\Index.cshtml",
-              "RelativeToolTip": "AdminApplication\\Views\\Concert\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T21:00:20.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "AdminApplication\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "AdminApplication\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T20:58:49.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Concert.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Models\\Concert.cs",
-              "RelativeDocumentMoniker": "AdminApplication\\Models\\Concert.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Models\\Concert.cs",
-              "RelativeToolTip": "AdminApplication\\Models\\Concert.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T20:47:30.345Z"
+              "WhenOpened": "2024-05-12T21:01:19.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ConcertController.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Controllers\\ConcertController.cs",
-              "RelativeDocumentMoniker": "AdminApplication\\Controllers\\ConcertController.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\AdminApplication_lab5\\AdminApplication\\Controllers\\ConcertController.cs",
-              "RelativeToolTip": "AdminApplication\\Controllers\\ConcertController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAcAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Views\\Concert\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminApplication\\Views\\Concert\\Index.cshtml",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Views\\Concert\\Index.cshtml",
+              "RelativeToolTip": "AdminApplication\\Views\\Concert\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T21:00:20.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AdminApplication\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AdminApplication\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwFcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T20:44:41.774Z"
+              "WhenOpened": "2024-05-12T20:58:49.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Models\\Concert.cs",
+              "RelativeDocumentMoniker": "AdminApplication\\Models\\Concert.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Models\\Concert.cs",
+              "RelativeToolTip": "AdminApplication\\Models\\Concert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:47:30.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConcertController.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Controllers\\ConcertController.cs",
+              "RelativeDocumentMoniker": "AdminApplication\\Controllers\\ConcertController.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\AdminApplication_lab5\\AdminApplication\\Controllers\\ConcertController.cs",
+              "RelativeToolTip": "AdminApplication\\Controllers\\ConcertController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:44:41.774Z",
+              "EditorCaption": ""
             }
           ]
         },

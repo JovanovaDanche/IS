@@ -1,81 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\",
+  "WorkspaceRootPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.domain\\dto\\concertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\dto\\concertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.service\\interface\\iconcertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\interface\\iconcertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.domain\\domain\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.domain\\identity\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\identity\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.service\\implementation\\concertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\concertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.domain\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.domain\\domain\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.domain\\domain\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.domain\\dto\\concertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\dto\\concertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.service\\interface\\iconcertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\interface\\iconcertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.domain\\identity\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\identity\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.service\\implementation\\concertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\concertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.domain\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.service\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.service\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\lab5\\lab5a\\integrated_systems_lab5\\eshop.repository\\migrations\\20240512195036_ok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|d:\\finki\\6 semestar\\is\\lab\\is\\integrated_systems_lab5\\eshop.repository\\migrations\\20240512195036_ok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\20240512195036_ok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -86,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,232 +110,263 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EShopApplicationUser.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\Identity\\EShopApplicationUser.cs",
-              "RelativeDocumentMoniker": "EShop.Domain\\Identity\\EShopApplicationUser.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\Identity\\EShopApplicationUser.cs",
-              "RelativeToolTip": "EShop.Domain\\Identity\\EShopApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Program.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Web\\Program.cs",
+              "RelativeToolTip": "EShop.Web\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T21:06:44.482Z"
+              "WhenOpened": "2024-05-13T20:16:09.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "TicketInOrder.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\Domain\\TicketInOrder.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\TicketInOrder.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\Domain\\TicketInOrder.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\TicketInOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:09:01.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Interface\\IUserRepository.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Interface\\IUserRepository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Interface\\IUserRepository.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Interface\\IUserRepository.cs",
               "RelativeToolTip": "EShop.Repository\\Interface\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T21:04:39.554Z"
+              "WhenOpened": "2024-05-12T21:04:39.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Concert.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\Domain\\Concert.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\Domain\\Concert.cs",
               "RelativeDocumentMoniker": "EShop.Domain\\Domain\\Concert.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\Domain\\Concert.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\Domain\\Concert.cs",
               "RelativeToolTip": "EShop.Domain\\Domain\\Concert.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T20:56:46.654Z"
+              "WhenOpened": "2024-05-12T20:56:46.654Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Implementation\\UserRepository.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Implementation\\UserRepository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\UserRepository.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Implementation\\UserRepository.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Implementation\\UserRepository.cs",
               "RelativeToolTip": "EShop.Repository\\Implementation\\UserRepository.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA5wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T20:32:08.464Z"
+              "WhenOpened": "2024-05-12T20:32:08.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Web\\Controllers\\API\\AdminController.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Web\\Controllers\\API\\AdminController.cs",
               "RelativeDocumentMoniker": "EShop.Web\\Controllers\\API\\AdminController.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Web\\Controllers\\API\\AdminController.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Web\\Controllers\\API\\AdminController.cs",
               "RelativeToolTip": "EShop.Web\\Controllers\\API\\AdminController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDAAAAA6AAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T15:06:36.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Implementation\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\OrderRepository.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Implementation\\OrderRepository.cs",
+              "RelativeToolTip": "EShop.Repository\\Implementation\\OrderRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:08:30.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Interface\\IRepository.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Interface\\IRepository.cs",
               "RelativeDocumentMoniker": "EShop.Repository\\Interface\\IRepository.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Interface\\IRepository.cs",
               "RelativeToolTip": "EShop.Repository\\Interface\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:32:42.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Implementation\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\OrderRepository.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Implementation\\OrderRepository.cs",
-              "RelativeToolTip": "EShop.Repository\\Implementation\\OrderRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:08:30.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ConcertService.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\Implementation\\ConcertService.cs",
-              "RelativeDocumentMoniker": "EShop.Service\\Implementation\\ConcertService.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\Implementation\\ConcertService.cs",
-              "RelativeToolTip": "EShop.Service\\Implementation\\ConcertService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T21:08:05.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConcertDTO.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\DTO\\ConcertDTO.cs",
-              "RelativeDocumentMoniker": "EShop.Domain\\DTO\\ConcertDTO.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\DTO\\ConcertDTO.cs",
-              "RelativeToolTip": "EShop.Domain\\DTO\\ConcertDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T21:23:51.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IConcertService.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\Interface\\IConcertService.cs",
-              "RelativeDocumentMoniker": "EShop.Service\\Interface\\IConcertService.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\Interface\\IConcertService.cs",
-              "RelativeToolTip": "EShop.Service\\Interface\\IConcertService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:10:05.267Z"
+              "WhenOpened": "2024-05-09T15:32:42.372Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Implementation\\Repository.cs",
-              "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\Repository.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Implementation\\Repository.cs",
-              "RelativeToolTip": "EShop.Repository\\Implementation\\Repository.cs",
+              "Title": "EShopApplicationUser.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\Identity\\EShopApplicationUser.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Identity\\EShopApplicationUser.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\Identity\\EShopApplicationUser.cs",
+              "RelativeToolTip": "EShop.Domain\\Identity\\EShopApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T21:02:13.185Z"
+              "WhenOpened": "2024-05-12T21:06:44.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ShoppingCartDTO.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\DTO\\ShoppingCartDTO.cs",
-              "RelativeDocumentMoniker": "EShop.Domain\\DTO\\ShoppingCartDTO.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\DTO\\ShoppingCartDTO.cs",
-              "RelativeToolTip": "EShop.Domain\\DTO\\ShoppingCartDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ConcertService.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\Implementation\\ConcertService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Implementation\\ConcertService.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\Implementation\\ConcertService.cs",
+              "RelativeToolTip": "EShop.Service\\Implementation\\ConcertService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T20:56:08.185Z"
+              "WhenOpened": "2024-05-12T21:08:05.434Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20240512195036_ok.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Migrations\\20240512195036_ok.cs",
-              "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20240512195036_ok.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Migrations\\20240512195036_ok.cs",
-              "RelativeToolTip": "EShop.Repository\\Migrations\\20240512195036_ok.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "ConcertDTO.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\DTO\\ConcertDTO.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\DTO\\ConcertDTO.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\DTO\\ConcertDTO.cs",
+              "RelativeToolTip": "EShop.Domain\\DTO\\ConcertDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:50:36.859Z"
+              "WhenOpened": "2024-05-12T21:23:51.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IConcertService.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\Interface\\IConcertService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Interface\\IConcertService.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\Interface\\IConcertService.cs",
+              "RelativeToolTip": "EShop.Service\\Interface\\IConcertService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:10:05.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Interface\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "EShop.Repository\\Interface\\IOrderRepository.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Repository\\Interface\\IOrderRepository.cs",
-              "RelativeToolTip": "EShop.Repository\\Interface\\IOrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "EShop.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:08:05.518Z"
+              "WhenOpened": "2024-05-12T21:02:13.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "EShop.Web\\appsettings.json",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Web\\appsettings.json",
-              "RelativeToolTip": "EShop.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-12T19:51:16.289Z"
+              "Title": "ShoppingCartDTO.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\DTO\\ShoppingCartDTO.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\DTO\\ShoppingCartDTO.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\DTO\\ShoppingCartDTO.cs",
+              "RelativeToolTip": "EShop.Domain\\DTO\\ShoppingCartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:56:08.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\Implementation\\OrderService.cs",
-              "RelativeDocumentMoniker": "EShop.Service\\Implementation\\OrderService.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\Implementation\\OrderService.cs",
-              "RelativeToolTip": "EShop.Service\\Implementation\\OrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "DocumentIndex": 19,
+              "Title": "20240512195036_ok.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Migrations\\20240512195036_ok.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20240512195036_ok.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Migrations\\20240512195036_ok.cs",
+              "RelativeToolTip": "EShop.Repository\\Migrations\\20240512195036_ok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:07:39.667Z"
+              "WhenOpened": "2024-05-12T19:50:36.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Web\\Program.cs",
-              "RelativeDocumentMoniker": "EShop.Web\\Program.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Web\\Program.cs",
-              "RelativeToolTip": "EShop.Web\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAB8AAAA9AAAA",
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Interface\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Interface\\IOrderRepository.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Repository\\Interface\\IOrderRepository.cs",
+              "RelativeToolTip": "EShop.Repository\\Interface\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:10:27.495Z"
+              "WhenOpened": "2024-05-09T15:08:05.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "EShop.Web\\appsettings.json",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Web\\appsettings.json",
+              "RelativeToolTip": "EShop.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T19:51:16.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\Domain\\Order.cs",
-              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\Order.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Domain\\Domain\\Order.cs",
-              "RelativeToolTip": "EShop.Domain\\Domain\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAgAAAA",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\Implementation\\OrderService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Implementation\\OrderService.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\Implementation\\OrderService.cs",
+              "RelativeToolTip": "EShop.Service\\Implementation\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:09:06.471Z"
+              "WhenOpened": "2024-05-09T15:07:39.667Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\Order.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Domain\\Domain\\Order.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:09:06.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "IOrderService.cs",
-              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\Interface\\IOrderService.cs",
+              "DocumentMoniker": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\Interface\\IOrderService.cs",
               "RelativeDocumentMoniker": "EShop.Service\\Interface\\IOrderService.cs",
-              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\Lab5\\Lab5A\\integrated_systems_lab5\\EShop.Service\\Interface\\IOrderService.cs",
+              "ToolTip": "D:\\FINKI\\6 Semestar\\IS\\Lab\\IS\\integrated_systems_lab5\\EShop.Service\\Interface\\IOrderService.cs",
               "RelativeToolTip": "EShop.Service\\Interface\\IOrderService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:07:05.813Z"
+              "WhenOpened": "2024-05-09T15:07:05.813Z",
+              "EditorCaption": ""
             }
           ]
         },

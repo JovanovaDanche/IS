@@ -23,7 +23,9 @@ namespace EShop.Repository.Implementation
         {
             return entities
                 .Include(z => z.ProductInOrders)
-                    .ThenInclude(x => x.OrderedProduct)
+                    //.ThenInclude(x => x.OrderedProduct)
+                .Include("ProductInOrders.OrderedProduct")
+                .Include("ProductInOrders.OrderedProduct.Concert")
                 .Include(z => z.Owner)
                 .ToList();
         }
@@ -32,7 +34,9 @@ namespace EShop.Repository.Implementation
         {
             return entities
                 .Include(z => z.ProductInOrders)
-                    .ThenInclude(x => x.OrderedProduct)
+                //.ThenInclude(x => x.OrderedProduct)
+                .Include("ProductInOrders.OrderedProduct")
+                .Include("ProductInOrders.OrderedProduct.Concert")
                 .Include(z => z.Owner)
                 .SingleOrDefaultAsync(z => z.Id == id.Id).Result;
         }
