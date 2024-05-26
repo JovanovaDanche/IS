@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FSrp7L/kmno/OONgsCz69kw0AdkbBgxJ74UEpJ0t+v9tl7kB6l58CYoMhJsU+K246jLijlHz4ybRcuN6NBK7EQ==",
+  "dgSpecHash": "YXr/KnRE6TBXXRu1cyReS1u/Y+d9A8M9OgtRL2Cx7HjRHmviHWn/B6HGmwF2llfiGs0VvCilWrsHgxL+Lz34/A==",
   "success": true,
-  "projectFilePath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj",
+  "projectFilePath": "D:\\FINKI\\6Semestar\\IS\\Lab\\IS\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.2\\microsoft.aspnetcore.cryptography.internal.8.0.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.2\\microsoft.aspnetcore.cryptography.keyderivation.8.0.2.nupkg.sha512",

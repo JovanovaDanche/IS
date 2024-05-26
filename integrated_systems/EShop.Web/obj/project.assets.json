@@ -8960,11 +8960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FINKI\\6 Semestar\\IS\\Lab\\integrated_systems\\EShop.Web\\EShop.Web.csproj",
+      "projectUniqueName": "D:\\FINKI\\6Semestar\\IS\\Lab\\IS\\integrated_systems\\EShop.Web\\EShop.Web.csproj",
       "projectName": "EShop.Web",
-      "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\integrated_systems\\EShop.Web\\EShop.Web.csproj",
+      "projectPath": "D:\\FINKI\\6Semestar\\IS\\Lab\\IS\\integrated_systems\\EShop.Web\\EShop.Web.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\integrated_systems\\EShop.Web\\obj\\",
+      "outputPath": "D:\\FINKI\\6Semestar\\IS\\Lab\\IS\\integrated_systems\\EShop.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8981,14 +8981,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\FINKI\\6 Semestar\\IS\\Lab\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {
-              "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj"
+            "D:\\FINKI\\6Semestar\\IS\\Lab\\IS\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {
+              "projectPath": "D:\\FINKI\\6Semestar\\IS\\Lab\\IS\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj"
             },
-            "D:\\FINKI\\6 Semestar\\IS\\Lab\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj": {
-              "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj"
+            "D:\\FINKI\\6Semestar\\IS\\Lab\\IS\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj": {
+              "projectPath": "D:\\FINKI\\6Semestar\\IS\\Lab\\IS\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj"
             },
-            "D:\\FINKI\\6 Semestar\\IS\\Lab\\integrated_systems\\EShop.Service\\EShop.Service.csproj": {
-              "projectPath": "D:\\FINKI\\6 Semestar\\IS\\Lab\\integrated_systems\\EShop.Service\\EShop.Service.csproj"
+            "D:\\FINKI\\6Semestar\\IS\\Lab\\IS\\integrated_systems\\EShop.Service\\EShop.Service.csproj": {
+              "projectPath": "D:\\FINKI\\6Semestar\\IS\\Lab\\IS\\integrated_systems\\EShop.Service\\EShop.Service.csproj"
             }
           }
         }

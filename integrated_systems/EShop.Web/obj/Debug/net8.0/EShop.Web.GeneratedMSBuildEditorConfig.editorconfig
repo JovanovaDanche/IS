@@ -17,119 +17,119 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EShop.Web
 build_property.RootNamespace = EShop.Web
-build_property.ProjectDir = D:\FINKI\6 Semestar\IS\Lab\integrated_systems\EShop.Web\
+build_property.ProjectDir = D:\FINKI\6Semestar\IS\Lab\IS\integrated_systems\EShop.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\FINKI\6 Semestar\IS\Lab\integrated_systems\EShop.Web
+build_property.MSBuildProjectDirectory = D:\FINKI\6Semestar\IS\Lab\IS\integrated_systems\EShop.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Home/Index.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Home/Privacy.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Movies/Create.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Movies/Delete.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Movies/Details.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Movies/Edit.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Movies/Index.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Shared/Error.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Shared/_LoginPartial.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/ShoppingCarts/Details.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/ShoppingCarts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/ShoppingCarts/Edit.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/ShoppingCarts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/ShoppingCarts/Index.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/ShoppingCarts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Tickets/AddProductToCart.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Tickets/AddProductToCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xBZGRQcm9kdWN0VG9DYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Tickets/Create.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Tickets/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Tickets/Delete.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Tickets/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Tickets/Details.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Tickets/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Tickets/Edit.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Tickets/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Tickets/Index.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Tickets/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/_ViewImports.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/_ViewStart.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6 Semestar/IS/Lab/integrated_systems/EShop.Web/Views/Shared/_Layout.cshtml]
+[D:/FINKI/6Semestar/IS/Lab/IS/integrated_systems/EShop.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2xw0c4kevb

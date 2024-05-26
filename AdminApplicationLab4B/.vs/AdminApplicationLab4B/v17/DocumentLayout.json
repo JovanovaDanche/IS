@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\controllers\\concertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\controllers\\concertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\views\\concert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\views\\concert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\models\\ticketinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\models\\ticketinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|d:\\finki\\6semestar\\is\\lab\\adminapplicationlab4b\\adminapplicationlab4b\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ACFF52-6511-4074-8445-4D3B234055DC}|AdminApplicationLab4B\\AdminApplicationLab4B.csproj|solutionrelative:adminapplicationlab4b\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcertController.cs",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Controllers\\ConcertController.cs",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Controllers\\ConcertController.cs",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Controllers\\ConcertController.cs",
+              "RelativeToolTip": "AdminApplicationLab4B\\Controllers\\ConcertController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:06:44.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Models\\Ticket.cs",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\Ticket.cs",
+              "RelativeToolTip": "AdminApplicationLab4B\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:29:26.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketInOrder.cs",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\TicketInOrder.cs",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Models\\TicketInOrder.cs",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\TicketInOrder.cs",
+              "RelativeToolTip": "AdminApplicationLab4B\\Models\\TicketInOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:28:50.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AdminApplicationLab4B\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:49:59.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EShopApplicationUser.cs",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\EShopApplicationUser.cs",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Models\\EShopApplicationUser.cs",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\EShopApplicationUser.cs",
+              "RelativeToolTip": "AdminApplicationLab4B\\Models\\EShopApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:26:15.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "AdminApplicationLab4B\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T12:52:00.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\Concert.cs",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Models\\Concert.cs",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\Concert.cs",
+              "RelativeToolTip": "AdminApplicationLab4B\\Models\\Concert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:30:45.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketInShoppingCart.cs",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\TicketInShoppingCart.cs",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Models\\TicketInShoppingCart.cs",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\TicketInShoppingCart.cs",
+              "RelativeToolTip": "AdminApplicationLab4B\\Models\\TicketInShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:32:21.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Views\\Concert\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Views\\Concert\\Index.cshtml",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Views\\Concert\\Index.cshtml",
+              "RelativeToolTip": "AdminApplicationLab4B\\Views\\Concert\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:15:06.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdminApplicationLab4B\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:15:45.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Models\\Order.cs",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\Order.cs",
+              "RelativeToolTip": "AdminApplicationLab4B\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:25:06.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Views\\Order\\Details.cshtml",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "AdminApplicationLab4B\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T13:55:36.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AdminApplicationLab4B\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\Lab\\AdminApplicationLab4B\\AdminApplicationLab4B\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AdminApplicationLab4B\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:33:43.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
